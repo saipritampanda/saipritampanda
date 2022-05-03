@@ -12,7 +12,7 @@ Android Developer
 
 * 🌍  I'm based in Balesore, Odisha
 * ✉️  You can contact me at [saipritampanda2002@gmail.com](mailto:saipritampanda2002@gmail.com)
-* 🧠  I'm learning Android Studio
+* 🧠  I'm learning Java & Android Studio
 
 <a href="https://www.twitter.com/SaiPritamPanda1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SaiPritamPanda1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
