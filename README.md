@@ -10,7 +10,7 @@ Hi 👋 My name is Sai Pritam Panda
 Android Developer
 -----------------
 
-* 🌍  I'm based in Balesore, Odisha
+* 🌍  I'm based in Balasore, Odisha, India
 * ✉️  You can contact me at [saipritampanda2002@gmail.com](mailto:saipritampanda2002@gmail.com)
 * 🧠  I'm learning Java & Android Studio
 
