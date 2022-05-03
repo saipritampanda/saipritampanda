@@ -1,4 +1,4 @@
-Hi 👋 My name is Sai Pritam Panda
+Hi 👋 My name is Sai Pritam 
 =================================
 
 Android Developer
