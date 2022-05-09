@@ -13,6 +13,11 @@ Android Developer
 * 🌍  I'm based in Balasore, Odisha, India
 * ✉️  You can contact me at [saipritampanda2002@gmail.com](mailto:saipritampanda2002@gmail.com)
 * 🧠  I'm learning Java & Android Studio
+* 🤝  I'm open to collaborating on intresting Projects.
+* ⚡  I'm a Quick learner.
+
+
+<p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
 
 <a href="https://www.twitter.com/SaiPritamPanda1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SaiPritamPanda1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
