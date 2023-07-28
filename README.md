@@ -19,14 +19,17 @@ Android Developer
 
 <p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
 
+### Twitter Followers Count
 <a href="https://www.twitter.com/SaiPritamPanda1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SaiPritamPanda1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+### GitHub Followers Count
 <a href="https://www.github.com/saipritampanda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+### Total Visitos Count
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=TotalVisitors)
 
 ### Skills
 
