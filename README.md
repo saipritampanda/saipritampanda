@@ -21,8 +21,12 @@ Android Developer
 
 <a href="https://www.twitter.com/SaiPritamPanda1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SaiPritamPanda1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/saipritampanda" target="_blank" rel="noreferrer"><img
+/></a>
+
+<a href="https://www.github.com/saipritampanda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
 ### Skills
 
