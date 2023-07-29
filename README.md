@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=fo
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,c,cpp,discord,django,eclipse,fastapi,figma,firebase,flutter,git,github,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,jquery,nodejs,c,cpp,discord,django,eclipse,fastapi,figma,firebase,flutter,kotlin,git,github,instagram,linkedin,twitter,mongodb,mysql,postman,py,react,spring,sqlite,stackoverflow,visualstudio,)](https://skillicons.dev)
 
 <p align="left"> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
