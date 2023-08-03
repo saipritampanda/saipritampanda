@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=fo
   
   <a href="http://www.instagram.com/saipritampanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   
-  <a href="https://www.linkedin.com/in/sai-pritam-panda-4bb115231/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg](https://www.flaticon.com/free-icons/linkedin)" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/sai-pritam-panda-4bb115231/" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icons/linkedin" width="32" height="32" /></a> 
 
   <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Fathema Khanom - Flaticon</a>
   
