@@ -52,7 +52,11 @@ src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=fo
 ### GitHub Commits Count Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saipritampanda&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<b>Top Repositories</b>
+### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/saipritampanda/QR-Code-Scanner-and-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=QR-Code-Scanner-and-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/saipritampanda/Omni-Converter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=Omni-Converter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/saipritampanda/Tic-Tac-Toe-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=Tic-Tac-Toe-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/saipritampanda/QR-Code-Scanner-And-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=QR-Code-Scanner-And-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+
+<br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/saipritampanda/Omni-Converter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=Omni-Converter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
