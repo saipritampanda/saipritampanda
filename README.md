@@ -29,7 +29,7 @@ Java Developer
 
 <div align="center" style="margin: 5px;">
   <a href="https://saipritampanda-portfolio-cv.netlify.app/">
-    <img src="https://raw.githubusercontent.com/saipritampanda/saipritampanda-curriculum-vitae/refs/heads/main/Portfolio%20GitHub%20Readme%20File%20Icon.png?token=GHSAT0AAAAAAC5KIXQN7WKPGNCBUYNZ7Z7AZ4V6Q2Q" 
+    <img src="https://raw.githubusercontent.com/saipritampanda/Portfolio-Thumbnail/refs/heads/main/Portfolio%20Thumbnail.png" 
          alt="My Profile Image" 
          style="width: auto; height: auto; border-radius: 15px; margin: 5px;">
   </a>
