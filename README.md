@@ -18,7 +18,9 @@ Android Developer
 
 <p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
 
+<!--
 [![](https://visitcount.itsvg.in/api?id=saipritampanda&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saipritampanda)
@@ -59,7 +61,7 @@ Android Developer
 ## 📈 GitHub Commits Count Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saipritampanda&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎓 Top Repositories
