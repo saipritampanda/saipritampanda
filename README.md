@@ -28,12 +28,19 @@ Java Developer
 ## My Portfolio:
 
 <div align="center" style="margin: 5px;">
-  <a href="https://saipritampanda-portfolio-cv.netlify.app/">
-    <img src="https://raw.githubusercontent.com/saipritampanda/Portfolio-Thumbnail/refs/heads/main/Portfolio%20Thumbnail.png" 
+  <a href="https://saipritampanda-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/saipritampanda/saipritampanda-portfolio/refs/heads/main/Portfolio%20Thumbnail.png?token=GHSAT0AAAAAADB6VNZ42SLZUBPQQNWRHAZK2AFXI5Q" 
          alt="My Profile Image" 
          style="width: auto; height: auto; border-radius: 15px; margin: 5px;">
   </a>
 </div>
+
+<p align="center" style="margin: 10px;">
+  <a href="https://saipritampanda-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-%23007BFF?style=plastic&logo=internet-explorer&logoColor=white" alt="Visit Website" style="padding: 8px;">
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saipritampanda)
