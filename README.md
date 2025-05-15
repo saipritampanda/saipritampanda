@@ -17,6 +17,7 @@ Java Developer
 * 🧠  I'm learning Java & Android Studio
 * 🤝  I'm open to collaborating on intresting Projects.
 * ⚡  I'm a Quick learner.
+
 ➤ Let's connect and explore opportunities for collaboration! 🤝
 
 <p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
@@ -29,7 +30,7 @@ Java Developer
 
 <div align="center" style="margin: 5px;">
   <a href="https://saipritampanda-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/saipritampanda/saipritampanda-portfolio/refs/heads/main/Portfolio%20Thumbnail.png?token=GHSAT0AAAAAADB6VNZ42SLZUBPQQNWRHAZK2AFXI5Q" 
+    <img src="https://raw.githubusercontent.com/saipritampanda/saipritampanda-portfolio/refs/heads/main/Portfolio%20GitHub%20Readme%20File%20Icon.png?token=GHSAT0AAAAAADB6VNZ5SDRAVGARRTNOXRTW2BF45LA" 
          alt="My Profile Image" 
          style="width: auto; height: auto; border-radius: 15px; margin: 5px;">
   </a>
