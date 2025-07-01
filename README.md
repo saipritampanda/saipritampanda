@@ -7,24 +7,25 @@
 Hi 👋 My name is Sai Pritam Panda
 =================================
 
-Java Developer
------------------
+## System Engineer
 
 * 🌍  I'm based in Balasore, Odisha, India
 * 🏠  Current Residence: Mysore, Karnataka, India
 * 🏢  Current Profession: System Engineer, working at **INFOSYS**
-* ✉️  You can contact me at [saipritampanda2002@gmail.com](mailto:saipritampanda2002@gmail.com)
-* 🧠  I'm learning Java & Android Studio
+* ✉️  You can contact me at [`saipritampanda2002@gmail.com`](mailto:saipritampanda2002@gmail.com)
+* 🧠  Learning Java, SQL & Android Studio
 * 🤝  I'm open to collaborating on intresting Projects.
 * ⚡  I'm a Quick learner.
 
 ➤ Let's connect and explore opportunities for collaboration! 🤝
 
-<p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
+<!-- Github Profile Badge (Static) -->
+![Github Time Spent](https://img.shields.io/badge/Github%20Time%20Spent-132%20hrs&nbsp;%20&nbsp;28%20mins-blue?logo=github&style=for-the-badge)
 
-<!--
-[![](https://visitcount.itsvg.in/api?id=saipritampanda&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+![Profile Visitors Count](https://img.shields.io/badge/Profile%20Visitors%20Count-96-blue?logo=github&style=for-the-badge)
+
+
+<p>I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.</p>
 
 ## My Portfolio:
 
@@ -56,17 +57,12 @@ Java Developer
 ### GitHub Followers Count
 <a href="https://www.github.com/saipritampanda" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/saipritampanda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<!--
-### Total Visitos Count
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=TotalVisitors)
--->
-
-# 💻 Skills
+## 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,html,css,bootstrap,js,jquery,py,vscode,c,eclipse,firebase,github,mysql,postman,stackoverflow,figma,anaconda,ubuntu,windows,linux,instagram,linkedin,twitter,discord)](https://skillicons.dev)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=saipritampanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
@@ -93,7 +89,6 @@ Java Developer
 
 <div width="100%" align="center"><a href="https://github.com/saipritampanda/Tic-Tac-Toe-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=Tic-Tac-Toe-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/saipritampanda/IFSC-Sampark" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipritampanda&repo=IFSC-Sampark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<!--
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saipritampanda)
--->
+
+# 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saipritampanda)
