@@ -29,20 +29,18 @@ Hi 👋 My name is Sai Pritam Panda
 
 ## My Portfolio:
 
-<div align="center" style="margin: 5px;">
+<p align="center">
   <a href="https://saipritampanda-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/saipritampanda/saipritampanda-portfolio/refs/heads/main/Portfolio%20GitHub%20Readme%20File%20Icon.png?token=GHSAT0AAAAAADB6VNZ5SDRAVGARRTNOXRTW2BF45LA" 
-         alt="My Profile Image" 
-         style="width: auto; height: auto; border-radius: 15px; margin: 5px;">
-  </a>
-</div>
-
-<p align="center" style="margin: 10px;">
-  <a href="https://saipritampanda-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Website-%23007BFF?style=plastic&logo=internet-explorer&logoColor=white" alt="Visit Website" style="padding: 8px;">
+    <img src="ImageAssets/Portfolio GitHub Readme File Icon.png" 
+         alt="My Portfolio Icon" >
   </a>
 </p>
 
+<div align="center">
+  
+  [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel)](https://saipritampanda-portfolio.vercel.app/)
+  
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saipritampanda)
