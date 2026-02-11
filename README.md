@@ -12,7 +12,7 @@ Hi 👋 My name is Sai Pritam Panda
 * 🌍  I'm based in Balasore, Odisha, India
 * 🏠  Current Residence: Hyderabad, Telangana, India
 * 🏢  Current Profession: System Engineer, working at **INFOSYS**
-* ✉️  You can contact me at [`saipritampanda2002@gmail.com`](mailto:saipritampanda2002@gmail.com)
+* ✉️  You can contact me at [`saipritampanda@outlook.com`](mailto:saipritampanda@outlook.com)
 * 🧠  Learning Java, SQL & Android Studio
 * 🤝  I'm open to collaborating on intresting Projects.
 * ⚡  I'm a Quick learner.
